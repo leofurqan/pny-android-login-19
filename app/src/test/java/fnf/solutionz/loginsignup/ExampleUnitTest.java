@@ -1,4 +1,4 @@
-package fnf.solutionz.login;
+package fnf.solutionz.loginsignup;
 
 import org.junit.Test;
 
